@@ -95,6 +95,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Manu Pratap Singh**  
+**Manupratap Singh Rajawat**  
 GitHub: [@manupratap15](https://github.com/manupratap15)  
 Feel free to reach out for suggestions or collaboration!
