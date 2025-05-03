@@ -11,9 +11,6 @@ Recycle Buddy is a web application built using React.js that helps users manage 
 - 📊 Dashboard to monitor recycling activity
 - 🔐 User authentication and session management
 
-## 📸 Screenshots
-
-> (Add screenshots here to showcase app UI - e.g., homepage, dashboard, etc.)
 
 ## 🛠 Tech Stack
 
